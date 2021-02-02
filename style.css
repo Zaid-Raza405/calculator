@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(5, 105, 105);
+
+    background-image: linear-gradient( to right, rgb(125, 243, 131), rgb(66, 66, 38));
+text-align: center;
+}
+.cal {
+    width: 200px;
+    margin: 0 auto;
+    background: linear-gradient(white,lightgrey);
+}
+.cal input {
+    padding: 10px;
+    width: 90%;
+}
+
+.btnBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn{
+    padding: 15px;
+    margin: 5px;
+}
+
